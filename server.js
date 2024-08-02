@@ -52,6 +52,11 @@ server.delete('/videos/:id', (request, reply) => {
     return reply.status(204).send()
 })
 
+// Adiciona uma rota para a raiz
+server.get('/', async (request, reply) => {
+    return { message: 'Welcome to the Video API!' }
+})
+
 server.listen({
     host: '0.0.0.0',
     port: process.env.port ?? 3333,

@@ -14,7 +14,7 @@ GET https://mini-curso-nodejs-1.onrender.com/videos
 
 ###
 
-PUT https://mini-curso-nodejs-1.onrender.com/videos/83bfe763-3cdd-43d7-8eb7-3e819382c206
+PUT https://mini-curso-nodejs-1.onrender.com/videos/dee0f3e2-21af-4eb2-8b24-74432994efea
 Content-type: application/json
 
 {
@@ -25,4 +25,4 @@ Content-type: application/json
 
 ###
 
-DELETE https://mini-curso-nodejs-1.onrender.com/videos/83bfe763-3cdd-43d7-8eb7-3e819382c206
+DELETE https://mini-curso-nodejs-1.onrender.com/videos/dee0f3e2-21af-4eb2-8b24-74432994efea
