@@ -14,15 +14,15 @@ GET https://mini-curso-nodejs-1.onrender.com/videos
 
 ###
 
-PUT https://mini-curso-nodejs-1.onrender.com/videos/96a83bc7-5bcd-45c6-ba28-0833ab720362
+PUT https://mini-curso-nodejs-1.onrender.com/videos/83bfe763-3cdd-43d7-8eb7-3e819382c206
 Content-type: application/json
 
 {
-    "title":"video02",
+    "title":"video 250",
     "description": "Este é o primeiro filme",
     "duration": 180
 } 
 
 ###
 
-DELETE https://mini-curso-nodejs-1.onrender.com/videos/1b3f5d10-5520-46d7-8957-0e72d4351df5
+DELETE https://mini-curso-nodejs-1.onrender.com/videos/83bfe763-3cdd-43d7-8eb7-3e819382c206
