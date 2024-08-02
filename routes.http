@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://mini-curso-nodejs-1.onrender.com/videos
 Content-type: application/json
 
 {
@@ -11,13 +11,12 @@ Content-type: application/json
 
 ###
 
-GET http://localhost:3333/videos?search=node
-GET http://localhost:3333/videos
+GET https://mini-curso-nodejs-1.onrender.com/videos
+
 
 ###
 
-PUT http://localhost:3333/videos/
-PUT http://localhost:3333/videos/96a83bc7-5bcd-45c6-ba28-0833ab720362
+PUT https://mini-curso-nodejs-1.onrender.com/videos/96a83bc7-5bcd-45c6-ba28-0833ab720362
 Content-type: application/json
 
 {
@@ -29,4 +28,4 @@ Content-type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/DELETE http://localhost:3333/videos/DELETE http://localhost:3333/videos/DELETE http://localhost:3333/videos/1b3f5d10-5520-46d7-8957-0e72d4351df5
+DELETE https://mini-curso-nodejs-1.onrender.com/videos/1b3f5d10-5520-46d7-8957-0e72d4351df5
