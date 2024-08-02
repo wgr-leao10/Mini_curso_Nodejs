@@ -14,5 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "fastify": "^4.28.1"
+    "fastify": "^4.28.1",
+    "postgres": "^3.4.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
   }
 }

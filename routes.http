@@ -4,24 +4,29 @@ Content-type: application/json
 {
     "title":"video node",
     "description": "Este é o primeiro filme",
+    "title":"video 163",
+    "description": "Este é o de filme",
     "duration": 180
 } 
 
 ###
 
 GET http://localhost:3333/videos?search=node
+GET http://localhost:3333/videos
 
 ###
 
 PUT http://localhost:3333/videos/
+PUT http://localhost:3333/videos/96a83bc7-5bcd-45c6-ba28-0833ab720362
 Content-type: application/json
 
 {
     "title":"video02",
+    "title":"video13",
     "description": "Este é o primeiro filme",
     "duration": 180
 } 
 
 ###
 
-DELETE http://localhost:3333/videos/
+DELETE http://localhost:3333/videos/DELETE http://localhost:3333/videos/DELETE http://localhost:3333/videos/DELETE http://localhost:3333/videos/1b3f5d10-5520-46d7-8957-0e72d4351df5
