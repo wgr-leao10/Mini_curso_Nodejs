@@ -4,8 +4,6 @@ Content-type: application/json
 {
     "title":"video node",
     "description": "Este é o primeiro filme",
-    "title":"video 163",
-    "description": "Este é o de filme",
     "duration": 180
 } 
 
@@ -21,7 +19,6 @@ Content-type: application/json
 
 {
     "title":"video02",
-    "title":"video13",
     "description": "Este é o primeiro filme",
     "duration": 180
 } 
